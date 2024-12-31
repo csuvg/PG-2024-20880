@@ -1,0 +1,21 @@
+El vehículo P0 esperó 0 minutos el día 0.
+El vehículo P0 esperó 0 minutos el día 1.
+El vehículo P1 esperó 0 minutos el día 0.
+El vehículo P1 esperó 0 minutos el día 1.
+El vehiculo P1 se quedo ha almorzar sale 1 hora más tarde el día 1
+El vehículo P2 esperó 0 minutos el día 0.
+El vehículo P2 esperó 0 minutos el día 1.
+El vehiculo P2 se quedo ha almorzar sale 1 hora más tarde el día 1
+El vehículo P3 esperó 0 minutos el día 0.
+El vehículo P3 esperó 0 minutos el día 1.
+El vehículo P4 esperó 0 minutos el día 0.
+El vehículo P4 esperó 0 minutos el día 1.
+El vehiculo P4 se quedo ha almorzar sale 1 hora más tarde el día 1
+El vehículo P5 esperó 0 minutos el día 0.
+El vehículo P5 esperó 0 minutos el día 1.
+El vehículo P6 esperó 0 minutos el día 0.
+El vehículo P6 esperó 0 minutos el día 1.
+El vehículo P7 esperó 0 minutos el día 0.
+El vehículo P7 esperó 0 minutos el día 1.
+El vehículo P8 esperó 0 minutos el día 0.
+El vehículo P8 esperó 0 minutos el día 1.

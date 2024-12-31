@@ -35,11 +35,11 @@ Determinar la cantidad óptima de asignaciones de parqueo a vender en una univer
 ### Ejecución de la Aplicación
 Para ejecutar el sistema, sigue los pasos:
 1. Ejecutar la simulación:
-   ```bash
+   ```
    python src/Main.py
    ```
 2. Analizar los resultados utilizando el módulo de análisis:
-   ```bash
+   ```
    jupyter notebook src/Analisis.ipynb
    ```
 3. Revisa los resultados generados en la carpeta `src/`.
