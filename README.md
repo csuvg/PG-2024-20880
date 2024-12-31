@@ -16,10 +16,55 @@ Determinar la cantidad óptima de asignaciones de parqueo a vender en una univer
    cd <nombre_del_repositorio>
    ```
 2. Instalar las dependencias del archivo `requirements.txt`:
+   ## Instrucciones para Crear un Ambiente Virtual de Python
+
+3. **Asegúrate de tener Python instalado**  
+   Verifica que Python está instalado en tu sistema ejecutando el siguiente comando en tu terminal:
+   ```bash
+   python --version
+   ```
+   o, si tu sistema usa `python3`:
+   ```bash
+   python3 --version
+   ```
+
+4. **Crea el ambiente virtual**  
+   En el directorio del proyecto, ejecuta el siguiente comando para crear el ambiente virtual:
+   - Usando `venv`:
+     ```bash
+     python -m venv venv
+     ```
+     (Puedes reemplazar `venv` con cualquier nombre que desees para la carpeta del ambiente virtual).
+
+5. **Activa el ambiente virtual**  
+   - En **Windows**:
+     ```bash
+     .\venv\Scripts\activate
+     ```
+   - En **Mac/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
+
+6. **Instala las dependencias del proyecto**  
+   Una vez activado el ambiente virtual, instala las dependencias necesarias ejecutando:
    ```bash
    pip install -r requirements.txt
    ```
-3. Establelcer los parámetros de la simulación (`src/Main.py`):
+
+7. **Desactiva el ambiente virtual (opcional)**  
+   Cuando termines de trabajar, puedes desactivar el ambiente virtual con el siguiente comando:
+   ```bash
+   deactivate
+   ```
+
+¡Con esto tendrás un ambiente virtual configurado para trabajar con Python!
+
+   
+   ```bash 
+   pip install -r requirements.txt
+   ```
+8. Establelcer los parámetros de la simulación (`src/Main.py`):
 - horario_color: Diccionario que permitira establecer el color con el que se reconocerán a los agentes en la simulación, la llave debera ser el color que se desea que la librería de Mathplotlib utilice y el valor sería un arreglo con el inicio y fin del horario. El inicio y fin deberá de ser en minutos
 
 - Cantidad_estacionamientos: Cuantos estacionamientos se desea simular
