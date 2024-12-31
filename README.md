@@ -50,10 +50,10 @@ En caso de ya tener los horariios y la población exacta se puede utilizar    ``
    el cual tiene los mismos parámetros que se utiliza en `src/Main.py`, con un parámetro más el cual sirve para especificar la cantidad exacta de personas pertenecientes a cada horario.
 
 ## Demo
-En la carpeta [/demo/](https://github.com/Aristondo01/PG-2024-20880/tree/main/demo) se encuentra un archivo .zip que contiene el video que muestra el sistema en acción. Accede a él para ver cómo funciona el proyecto y resolver cualquier duda en forma de tutorial.
+En la carpeta [demo](https://github.com/Aristondo01/PG-2024-20880/tree/main/demo) se encuentra un archivo .zip que contiene el video que muestra el sistema en acción. Accede a él para ver cómo funciona el proyecto y resolver cualquier duda en forma de tutorial.
 
 ## Informe Final
-El informe final del proyecto está disponible en la carpeta `/docs/` bajo el nombre `informe_final.pdf`. Este documento detalla el desarrollo, los resultados y las conclusiones del trabajo.
+El informe final del proyecto está disponible en la carpeta [docs](https://github.com/Aristondo01/PG-2024-20880/tree/main/docsc) bajo el nombre `informe_final.pdf`. Este documento detalla el desarrollo, los resultados y las conclusiones del trabajo.
 
 ## Estructura del Repositorio
 - `/src/`: Contiene los scripts principales y los archivos necesarios para ejecutar el sistema.
